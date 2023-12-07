@@ -1,3 +1,1 @@
-# kimanziplacide.github.io
-For my HTML-CSS-JAVASCRIPT courses and assignments
-These are  small projects  about using HTML and CSS basics
+*This github repository is for my first HTML,CSS and Javascript short courses given by Yaakov Chaikin from JOHN HOPKINS UNIVERSITY*
